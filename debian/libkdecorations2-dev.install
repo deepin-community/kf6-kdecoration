@@ -1,0 +1,5 @@
+usr/include/KDecoration2/
+usr/include/KF6/kdecoration2_version.h
+usr/lib/*/cmake/KDecoration2/
+usr/lib/*/libkdecorations2.so
+usr/lib/*/libkdecorations2private.so
